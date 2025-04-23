@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Farmacia Central",
+    "direccion": "San Martín 123, Cruz del Eje",
+    "telefono": "03549-422100",
+    "horario": "24hs"
+  },
+  {
+    "nombre": "Farmacia Avellaneda",
+    "direccion": "Alvear 301, Cruz del Eje",
+    "telefono": "03549-422095",
+    "horario": "24hs"
+  }
+]
